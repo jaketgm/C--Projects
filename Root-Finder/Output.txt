@@ -1,0 +1,14 @@
+Input value of alpha: 8
+Input value of beta: 2
+Input value of gamma: 1
+Root is imaginary; No Real Solution.
+Input value of alpha: 57
+Input value of beta: 89
+Input value of gamma: 43
+Root is imaginary; No Real Solution.
+Input value of alpha: 1
+Input value of beta: 5
+Input value of gamma: 6
+Both roots are real.
+First root is = -2
+Second root is = -3
