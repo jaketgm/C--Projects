@@ -1,7 +1,32 @@
-﻿namespace RootFinder
+﻿/******************************************************************************
+ * @author Jake Brockbank
+ * Dec 2nd, 2023 (Revitalized)
+ * This is a simple quadratic root finder.
+******************************************************************************/
+namespace RootFinder
 {
+    /******************************************************************************
+     * Class: Program (Driver): 
+     * 
+     * - Finds the roots of a quadratic equation.
+     *
+     * Input: None.
+     *
+     * Output: Roots.
+     *  
+    ******************************************************************************/    
     class Program
     {
+        /******************************************************************************
+         * Method: Main: 
+         * 
+         * - Finds the roots of a quadratic equation.
+         *
+         * Input: None.
+         *
+         * Output: Roots.
+         *  
+        ******************************************************************************/
         public static void Main()
         {
             Console.Write("Input value of alpha: ");
