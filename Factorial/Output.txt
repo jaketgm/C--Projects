@@ -1,0 +1,4 @@
+Input a number: 4
+The Factorial of 4 is: 24
+Input a number: 56
+The Factorial of 56 is: 6908521828386340864
