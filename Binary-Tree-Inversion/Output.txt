@@ -1,0 +1,17 @@
+In-order traversal before inversion:
+1
+2
+3
+4
+6
+7
+9
+
+In-order traversal after inversion:
+9
+7
+6
+4
+3
+2
+1
